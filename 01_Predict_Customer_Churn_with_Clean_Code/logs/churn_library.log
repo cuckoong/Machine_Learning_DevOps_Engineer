@@ -1,0 +1,15 @@
+2022-12-17 11:34:35 INFO Testing import_data: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing eda - Correlation_Map: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing eda - Churn_Distribution: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing eda - Customer_Age_Distribution: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing eda - Marital_Status_Distribution: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing eda - Total_trans_Ct_density: SUCCESS
+2022-12-17 11:34:35 INFO Testing performing EDA: SUCCESS
+2022-12-17 11:34:54 INFO Testing encoder helper - encoded_df shape: (10127, 28)
+2022-12-17 11:34:54 INFO Testing encoder helper - encoded_df contains response column: SUCCESS
+2022-12-17 11:34:54 INFO Testing encoder helper - encoded_df contains encoded column: SUCCESS
+2022-12-17 11:34:54 INFO Testing encoder helper: SUCCESS
+2022-12-17 11:35:13 INFO Testing perform feature engineering - dataset length: SUCCESS
+2022-12-17 11:35:13 INFO Testing perform feature engineering - input data shape: SUCCESS
+2022-12-17 11:35:13 INFO Testing feature engineering: SUCCESS
+2022-12-17 11:35:13 INFO Testing train model: SUCCESS
